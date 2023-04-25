@@ -1,0 +1,5 @@
+print("hello")
+dat=int(input("enther the value"))
+print(dat)
+for i in range(20):
+    print(i)
